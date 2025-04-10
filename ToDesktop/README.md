@@ -14,7 +14,7 @@ A modern and visually stunning **clone of the ToDesktop homepage**, built with *
 
 | Hero Section | Bento Grid Features | Pricing Plans |
 |--------------|---------------------|----------------|
-| ![Hero](assets/screens/hero.png) | ![Grid](assets/screens/grid.png) | ![Pricing](assets/screens/pricing.png) |
+| ![Hero](![hero](https://github.com/user-attachments/assets/cd33dc1f-2ceb-4b31-9bb4-0a6c73449126) | ![Grid](assets/screens/grid.png) | ![Pricing](assets/screens/pricing.png) |
 
 ---
 
