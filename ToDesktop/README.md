@@ -6,7 +6,7 @@ A modern and visually stunning **clone of the ToDesktop homepage**, built with *
 
 ## 🌐 Live Preview
 
-👉 [Click Here to Visit the Live Site](https://your-live-link.netlify.app)
+👉 [Click Here to Visit the Live Site](https://to-desktop-ui-clone.vercel.app/)
 
 ---
 
