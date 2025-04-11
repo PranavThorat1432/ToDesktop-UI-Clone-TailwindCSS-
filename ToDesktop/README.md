@@ -43,7 +43,7 @@ A modern and visually stunning **clone of the ToDesktop homepage**, built with *
 ## 🧩 Folder Structure
 
 ```
-📁 project-root/
+📁 ToDesktop/
 ├── 📄 index.html
 ├── 📄 output.css
 ├── 📄 script.js
